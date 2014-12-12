@@ -11,10 +11,11 @@ a:visited {
   text-decoration: none;
 }
 p {
-  font-size: 1em;
+  font-size: 1.76em;
   margin-bottom: 1.5em;
   line-height: 1.5em;
   color: #FFFFFF;
+  text-align: center;
 }
 h1,
 h2,
@@ -26,6 +27,7 @@ h4 {
   text-transform: uppercase;
   letter-spacing: 0.2em;
   margin-bottom: 1.5em;
+  text-align: center;
 }
 h1 {
   font-size: 2.3em;
@@ -87,10 +89,10 @@ nav#topnav ul {
 }
 nav#topnav ul li {
   display: inline-block;
-  padding: 0px 10%;
+  padding: 0px 5%;
 }
 header#intro {
-  background-image: url('../images/Banner_img.jpg');
+  background-image: url('../Images/CoverPhoto.png');
   background-size: cover;
   background-position: center;
 }
@@ -230,8 +232,8 @@ footer#footer {
   color: #fff;
   width: 100%;
   height: 60px;
-  background-color: #bf6565;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   clear: both;
 
 }
@@ -338,8 +340,8 @@ footer#footer {
   bottom: 0;
   width: 100%;
   height: 75px;
-  background-color: #bf6565;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   clear: both;
 
 }
@@ -428,4 +430,10 @@ color:#09C;
 textarea:focus, input:focus {
 border: 1px solid #09C;
 }
+}
+
+header#intro {
+  background-image: url('../Images/Small_Banner.png ');
+  background-size: cover;
+  background-position: center;
 }
