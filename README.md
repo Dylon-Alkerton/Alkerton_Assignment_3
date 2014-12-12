@@ -10,4 +10,6 @@ I just want to be a web designer/UX designer. I really did try on your assignmen
 
 using jade and sass. So I went ahead and did it in html and css which I know you didnt want but this was the only way 
 
-for me to get more then a single page.  
+for me to get more then a single page. I had the gulp and gulp watch working in the terminal with your code. But couldnt get 
+
+it working with mmine.
