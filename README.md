@@ -1,6 +1,7 @@
 Start of the readme. 
 
-This is going to be a short readme file Darcy. 
+This is going to be a long readme file... Sorry Darcy. 
+
 
 I know you tried to make this assignment as easy as possible for us which was awesome of you.
 
@@ -12,4 +13,4 @@ using jade and sass. So I went ahead and did it in html and css which I know you
 
 for me to get more then a single page. I had the gulp and gulp watch working in the terminal with your code. But couldnt get 
 
-it working with mmine.
+it working with mine.
